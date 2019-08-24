@@ -1,0 +1,5 @@
+const UPDATE_IS_MODAL_OPEN = 'UPDATE_IS_MODAL_OPEN';
+
+export default {
+    UPDATE_IS_MODAL_OPEN
+};
